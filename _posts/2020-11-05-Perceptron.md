@@ -1,4 +1,17 @@
-﻿```python
+﻿---
+title: Perceptron
+author: GS
+date: 2020-11-05 17:00:00 +0800
+categories: [分类算法]
+tags: [感知机,批量梯度下降,随机梯度下降,自适应梯度下降,神经元]
+math: true
+pin: true
+toc:false
+---
+
+
+
+```python
 #导入包
 import pandas as pd
 import numpy as np
@@ -21,7 +34,7 @@ iris_df.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -103,7 +116,7 @@ iris_df.describe().T
      4   class         149 non-null    object 
     dtypes: float64(4), object(1)
     memory usage: 5.9+ KB
-    
+
 
 
 
@@ -117,7 +130,7 @@ iris_df.describe().T
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -206,10 +219,10 @@ plt.show()
 ```
 
 
-    
+​    
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174649402.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-    
+​    
 
 
 
@@ -270,10 +283,10 @@ plt.show()    #发现在迭代次数达到5的时候错误数量降为0
 ```
 
 
-    
+​    
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174242478.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-    
+​    
 
 
 
@@ -318,13 +331,13 @@ plt.show()
 
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
-    
 
 
-    
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174318237.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-    
+​    
 
 
 
@@ -396,10 +409,10 @@ plt.show()
 ```
 
 
-    
+​    
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174335947.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-    
+​    
 
 
 
@@ -425,14 +438,14 @@ plt.show()
 
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
-    
 
 
-    
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020110517444597.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174451730.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-    
+​    
 
 
 
@@ -523,14 +536,14 @@ plt.show()
 
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
     *c* argument looks like a single numeric RGB or RGBA sequence, which should be avoided as value-mapping will have precedence in case its length matches with *x* & *y*.  Please use the *color* keyword-argument or provide a 2-D array with a single row if you intend to specify the same RGB or RGBA value for all points.
-    
 
 
-    
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174511482.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
    ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174539617.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
- 
+
 
 
 
@@ -555,4 +568,4 @@ print(a1-a2)
      [7 8]]
     [[-4 -4]
      [-4 -4]]
-    
+
