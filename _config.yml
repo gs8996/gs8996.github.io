@@ -22,24 +22,11 @@ url: 'https://gs996.github.io'
 
 author: GS                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/headpic.jpg   # support internet resources
 
 github:
   username: gs8996             # change to your github username
 
-twitter:
-  username: None            # change to your twitter username
-
-social:
-  name: None                 # it will shows as the copyright owner in Footer
-  email: None             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
