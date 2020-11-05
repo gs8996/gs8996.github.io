@@ -6,10 +6,7 @@ categories: [分类算法]
 tags: [感知机,批量梯度下降,随机梯度下降,自适应梯度下降,神经元]
 math: true
 pin: true
-toc:false
 ---
-
-
 
 ```python
 #导入包
