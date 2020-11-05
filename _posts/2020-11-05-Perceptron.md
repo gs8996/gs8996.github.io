@@ -1,4 +1,4 @@
-```python
+﻿```python
 #导入包
 import pandas as pd
 import numpy as np
@@ -207,7 +207,8 @@ plt.show()
 
 
     
-![png](output_2_0.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174649402.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+
     
 
 
@@ -270,7 +271,8 @@ plt.show()    #发现在迭代次数达到5的时候错误数量降为0
 
 
     
-![png](output_4_0.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174242478.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+
     
 
 
@@ -320,7 +322,8 @@ plt.show()
 
 
     
-![png](output_6_1.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174318237.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+
     
 
 
@@ -394,7 +397,8 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174335947.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+
     
 
 
@@ -425,13 +429,9 @@ plt.show()
 
 
     
-![png](output_9_1.png)
-    
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020110517444597.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174451730.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-
-
-    
-![png](output_9_2.png)
     
 
 
@@ -527,14 +527,10 @@ plt.show()
 
 
     
-![png](output_11_1.png)
-    
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174511482.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
 
-
-
-    
-![png](output_11_2.png)
-    
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201105174539617.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxNTI1ODE1,size_16,color_FFFFFF,t_70#pic_center)
+ 
 
 
 
